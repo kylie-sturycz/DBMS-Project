@@ -1,0 +1,53 @@
+.menu-link>a {
+  color: #fff;
+  /*white color*/
+  font-weight: 500;
+}
+
+.menu-link {
+  padding-left: 20px;
+}
+
+.menu-bar {
+  background-color: maroon;
+}
+
+.container {
+  margin: 10px;
+}
+
+p a {
+  padding: 0 4px;
+}
+
+/*
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+th,
+td {
+  border: 2px solid black;
+  padding: .2em .7em;
+  color: black;
+  font-size: 16px;
+  font-weight: 350;
+}
+
+thead th {
+  background-color: #336699;
+  color: #fff;
+  font-weight: bold;
+  font: calibri;
+}
+
+.container {
+  margin: 10px;
+}
+
+p a {
+  padding: 0 4px;
+}
+  */
